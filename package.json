@@ -1,0 +1,8 @@
+{
+  "name": "spicy-3d-viewer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JOHNKIM-KK/spicy-3d-viewer.git",
+  "author": "김명준 <acspp2017@gmail.com>",
+  "license": "MIT"
+}
